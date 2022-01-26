@@ -1,0 +1,68 @@
+Resources (by alphabetical order):
+
+Aloe Guvner
+	ALOE_ConditionalChoices plugin
+	https://aloeguvner.github.io/
+
+BigSoundBank
+	Train sound effect
+	https://bigsoundbank.com/
+
+Biud436
+	"RS" plugins
+	https://biud436.tistory.com/
+
+Hime
+	HIME_SyncSaveData plugin
+	https://himeworks.com/
+
+KADOKAWA CORPORATION./YOJI OJIMA
+	RPG Maker MV engine & assets
+	https://www.rpgmakerweb.com/products/rpg-maker-mv
+
+Lupinos
+	Roof_Tops tileset
+	https://forums.rpgmakerweb.com/index.php?members/lupinos.73362/
+
+SumRndmDde
+	SRD_ShakingText plugin
+	http://sumrndm.site/
+
+Ossra
+	DisablePDisplay
+	https://forums.rpgmakerweb.com/index.php?members/ossra.19410/
+
+トリアコンタン
+	AnotherNewGame plugin
+	https://triacontane.blogspot.com/
+
+汪汪
+	StopMovement plugin
+	https://rpg.blue/home.php?mod=space&uid=171386
+
+Yanfly
+	"YEP" plugins
+	http://www.yanfly.moe/
+
+
+Softwares (by alphabetical order):
+
+Affinity Designer
+	https://affinity.serif.com/
+
+Affinity Photo
+	https://affinity.serif.com/
+
+Procreate
+	https://procreate.art/
+
+RPG Maker MV
+	https://www.rpgmakerweb.com/products/rpg-maker-mv
+
+Visual Studio Code
+	https://code.visualstudio.com/
+
+
+Special credit to Louise, artist of /img/faces
+
+See in-game credits for complete list.
